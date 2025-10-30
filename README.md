@@ -502,3 +502,5 @@ asyncio.run(main())
 - Clarified sync vs async usage: `create_deep_agent` supports both; use `invoke` for sync and `astream` for async streaming.
 - Updated MCP guidance to reflect async-compatible usage with `create_deep_agent` and `astream`.
 - Added upstream attribution in `LICENSE`, acknowledging the project source (`https://github.com/langchain-ai/deepagents`) and noting local modifications.
+
+## Source - https://github.com/langchain-ai/deepagents
